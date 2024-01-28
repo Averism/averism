@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import { useEffect } from 'react';
+import ErrorBoundary from './ErrorBoundary';
 
 function App() {
 
